@@ -4,3 +4,4 @@ export 'arrow_drawable.dart';
 export 'rectangle_drawable.dart';
 export 'oval_drawable.dart';
 export 'double_arrow_drawable.dart';
+export 'dotted_line_drawable.dart';
